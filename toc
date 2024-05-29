@@ -45,3 +45,16 @@
     "3.5 AM Radio Broadcasting" 167
     "3.6 Summary and Further Reading" 170
     "Problems" 172
+"Angle Modulation" 182
+"Probability and Random Processes" 211
+"Effect of Noise on Analog Communication Systems" 276
+"Analog-to-Digital Conversion" 317
+"Digital Modulation Methods in an Additive White Gaussian Noise Channel" 368
+"Multidimensional Digital Modulation" 506
+"Digital Transmission through Bandlimited AWGN Channels" 564
+"Multicarrier Modulation and OFDM" 642
+"An Introduction to Information Theory" 662
+"Coding for Reliable Communications" 710
+"Data Transmission in Fading Multipath Channels" 790
+"Spread-Spectrum Communication Systems" 846
+"References" 898
