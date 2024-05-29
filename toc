@@ -1,0 +1,33 @@
+"Contents" 8
+"Introduction" 22
+    "1.1 Historical Review" 22
+    "1.2 Elements of an Electrical Communication System" 25
+        "1.2.1 Digital Communication System" 28
+        "1.2.2 Early Work in Digital Communications" 31
+    "1.3 Communication Channels and Their Characteristics" 33
+    "1.4 Mathematical Models for Communication Channels" 39
+    "1.5 Summary and Further Reading" 41
+"Signals and Linear Systems" 42
+    "2.1 Basic Concepts" 42
+        "2.1.1 Basic Operations on Signals" 42
+        "2.1.2 Classification of Signals" 44
+        "2.1.3 Some Important Signals and Their Properties" 52
+        "2.1.4 Classification of Systems" 59
+        "2.1.5 Analysis of LTI Systems in the Time Domain" 62
+    "2.2 Fourier Series" 64
+        "2.2.1 Fourier Series and Its Properties" 65
+        "2.2.2 Response of LTI Systems to Periodic Signals" 75
+        "2.2.3 Parseval's Relation" 77
+    "2.3 Fourier Transform" 79
+        "2.3.1 From Fourier Series to Fourier Transforms" 79
+        "2.3.2 Basic Properties of the Fourier Transform" 85
+        "2.3.3 Fourier Transform for Periodic Signals" 99
+        "2.3.4 Transmission over LTI Systems" 102
+    "2.4 Filter Design" 106
+    "2.5 Power and Energy" 110
+        "2.5.1 Energy-Type Signals" 110
+        "2.5.2 Power-Type Signals" 113
+    "2.6 Hilbert Transform and its Properties" 116
+    "2.7 Lowpass and Bandpass Signals" 119
+    "2.8 Summary and Further Reading" 121
+    "Problems" 122
