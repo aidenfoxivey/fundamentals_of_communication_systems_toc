@@ -36,7 +36,7 @@
     "3.2 Amplitude Modulation" 140
         "3.2.1 Double-Sideband Suppressed-Carrier AM" 140
         "3.2.2 Conventional Amplitude Modulation" 147
-        "3.2.3 Single-Sideband AM" 152
+        "3.2.3 Single-Sideband AM" 153
         "3.2.4 Vestigial-Sideband AM" 155
     "3.3 Implementation of Amplitude Modulators and Demodulators" 158
     "3.4 Signal Multiplexing" 165
