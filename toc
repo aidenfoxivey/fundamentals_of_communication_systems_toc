@@ -46,9 +46,70 @@
     "3.6 Summary and Further Reading" 170
     "Problems" 172
 "Angle Modulation" 182
+    "4.1 Representation of FM and PM Signals" 182
+    "4.2 Spectral Characteristics of Angle-Modulated Signals" 187
+        "4.2.1 Angle Modulation by a Sinusoidal Signal" 187
+        "4.2.2 Angle Modulation by an Arbitrary Message Signal" 191
+    "4.3 Implementation of Angle Modulators and Demodulators" 192
+    "4.4 FM Radio Broadcasting" 200
+    "4.5 Summary and Further Reading" 202
+    "Problems" 203
 "Probability and Random Processes" 211
+    "5.1 Review of Probability and Random Variables" 211
+        "5.1.1 Sample Space, Events, and Probability" 211
+        "5.1.2 Conditional Probability" 212
+        "5.1.3 Random Variables" 215
+        "5.1.4 Functions of a Random Variable" 222
+        "5.1.5 Multiple Random Variables" 224
+        "5.1.6 Sums of Random Variables" 229
+    "5.2 Random Processes: Basic Concepts" 230
+        "5.2.1 Statistical Averages" 233
+        "5.2.2 Wide-Sense Stationary Processes" 236
+        "5.2.3 Multiple Random Processes" 238
+        "5.2.4 Random Processes and Linear Systems" 239
+        "5.2.5 Power Spectral Density of Stationary Processes" 241
+        "5.2.6 Power Spectral Density of a Sum Process" 246
+    "5.3 Gaussian and White Processes" 247
+        "5.3.1 Gaussian Processes" 247
+        "5.3.2 White Processes" 249
+        "5.3.3 Filtered Noise Processes" 251
+    "5.4 Summary and Further Reading" 256
+    "Problems" 257
 "Effect of Noise on Analog Communication Systems" 276
+    "6.1 Effect of Noise on Amplitude Modulation Systems" 276
+        "6.1.1 Effect of Noise on a Baseband System" 277
+        "6.1.2 Effect of Noise on DSB-SC AM" 277
+        "6.1.3 Effect of Noise on SSB AM" 279
+        "6.1.4 Effect of Noise on Conventional AM" 280
+    "6.2 Effect of Noise on Angle Modulation" 284
+        "6.2.1 Threshold Effect in Angle Modulation" 292
+        "6.2.2 Preemphasis and Deemphasis Filtering for FM" 295
+    "6.3 Comparison of Analog-Modulation Systems" 298
+    "6.4 Effects of Transmission Losses and Noise in Analog Communication Systems" 299
+        "6.4.1 Characterization of Thermal Noise Sources" 300
+        "6.4.2 Effective Noise Temperature and Noise Figure" 301
+        "6.4.3 Transmission Losses" 304
+        "6.4.4 Repeaters for Signal Transmission" 305
+    "6.5 Summary and Further Reading" 308
+    "Problems" 309
 "Analog-to-Digital Conversion" 317
+    "7.1 Sampling of Signals and Signal Reconstruction from Samples" 318
+        "7.1.1 The Sampling Theorem" 297
+    "7.2 Quantization" 322
+        "7.2.1 Scalar Quantization" 323
+        "7.2.2 Vector Quantization" 330
+    "7.3 Encoding" 332
+    "7.4 Waveform Coding" 333
+        "7.4.1 Pulse Code Modulation" 334
+        "7.4.2 Differential Pulse Code Modulation" 337
+        "7.4.3 Delta Modulation" 339
+    "7.5 Analysis-Synthesis Techniques" 342
+    "7.6 Digital Audio Transmission and Digital Audio Recording" 346
+        "7.6.1 Digital Audio in Telephone Transmission Systems" 346
+        "7.6.2 Digital Audio Recording" 348
+    "7.7 The JPEG Image-Coding Standard" 353
+    "7.8 Summary and Further Reading" 356
+    "Problems" 357
 "Digital Modulation Methods in an Additive White Gaussian Noise Channel" 368
 "Multidimensional Digital Modulation" 506
 "Digital Transmission through Bandlimited AWGN Channels" 564
